@@ -2,6 +2,7 @@
   "blur.midnightconfig.title": "Blur Konfiguration",
   "blur.midnightconfig.blurExclusions": "Blur-Ausnahmen",
   "blur.midnightconfig.fadeTimeMillis": "Überblendzeit (in Millisekunden)",
+  "blur.midnightconfig.ease": "Geschmeidige Animation",
   "blur.midnightconfig.radius": "Radius",
   "blur.midnightconfig.gradientStartColor": "Farbverlauf-Anfangsfarbe",
   "blur.midnightconfig.gradientEndColor": "Farbverlauf-Endfarbe",
